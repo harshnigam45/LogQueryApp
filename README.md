@@ -28,4 +28,12 @@ The application utilizes a simple MVC architecture:
   The application may experience slowdowns when processing very large log files.
   
   The system does not currently support real-time log updating; it requires a manual refresh to load new log entries.
-  
+
+
+-> How to Run
+
+To run the application, execute the following command in the terminal:
+
+python app.py
+
+Navigate to http://127.0.0.1:5000/ in your web browser to use the application.
